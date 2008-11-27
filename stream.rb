@@ -16,3 +16,5 @@ w.Content = s
 b.Click do |sender, args|
   MessageBox.show "clicked me!"
 end
+
+w.Background = Brushes.Black
