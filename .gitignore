@@ -1,0 +1,8 @@
+AwesomeRepl/bin/*
+AwesomeRepl/obj/*
+Blacklight/Blacklight.Wpf.Controls/bin/*
+Blacklight/Blacklight.Wpf.Controls/obj/*
+Blacklight/Blacklight.Wpf.Demo/bin/*
+Blacklight/Blacklight.Wpf.Demo/obj/*
+*.swp
+*.suo
